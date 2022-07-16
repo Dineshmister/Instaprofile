@@ -916,7 +916,7 @@ img:hover ~ .parent-hover{
     border-top: 1px solid gainsboro;
     /* border: 1px solid red; */
 }
-@media screen and (max-width:600px){
+@media screen (min-width:320px) and (max-width:600px){
     .highlights{
         gap: 10px;
         grid-template-columns: repeat(6,100px);
