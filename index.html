@@ -760,11 +760,11 @@
 
                     let current_page = $(this).attr("id")
                     console.log(current_page)
-                    window.location.replace(`/instaprofilereplica/post.html#${current_page}`)
+                    window.location.href = `https://dineshmister.github.io/instaprofilereplica/post.html#${current_page}`
                 
 
                 }
-                else{
+                else
                     $(".unique-img").show()
                 let defimg = $(this).attr("src")
                 let store = $(this).attr("data-carousel-img")
