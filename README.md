@@ -30,5 +30,5 @@ The overall preview of this instaprofilereplica:
 
 
 You can check it out this
-#link
+https://dineshmister.github.io/instaprofilereplica/
 
