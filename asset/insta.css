@@ -550,8 +550,6 @@ input[type="search"]{
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    outline:  1px solid  grey;
-    outline-offset: 2px;
 }
 .icons-post{
     width: 100%;
