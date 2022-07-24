@@ -1,34 +1,27 @@
-# instaprofilereplica
-Its an instagram profile page of a some stranger and it is an exact replica of instagram web version as well as mobile version 
-when you shrink the browser window or switch to mobile you will see the change.
+## **instaprofilereplica**
 
-##img
+![instagramweb](./IMG/insta-1.png)
 
-when you switch this site to desktop version
-You can see the post pop up with user name,comments and like.
+Its just an **Instagram Profile** in desktop and mobile versions
 
-#img
+**Built with**
+ * HTML
+ * CSS
+ * Bootstrap
+ * Jquery
+ * Swiperjs
 
-In mobile version when you click on a post or picture 🖼️ you will be navigated to the respective post that you have clicked.
+It is the replication of original instagram profile
+when you see it on your desktop you will have the images popped on **onclick** when you shrink the browser window or see it in mobile you will get a different design to see as we see our profile in instagram.By **doubleclicking** you can see the heart animation.
 
+## **Desktop version**
+![instaweb](./IMG/insta-5.png)
 
-#img
+## **Mobile version**
 
-When you shrink or see the site in mobile you can like the post as you can do in the real Instagram app it has contain dummy text 
-Loren ipsum for content.just double tap you will see the change and heart get filled ❤️.
+![instagrammobile](./IMG/insta-mob.gif.gif)
 
-#img
+> It is also enabled auto dark and light theme according to your devices
 
-The overall preview of this instaprofilereplica:
-
-#img
-
-
-
-
-
-
-
-You can check it out this
+*__you can see the demo here__*
 https://dineshmister.github.io/instaprofilereplica/
-
