@@ -1,4 +1,4 @@
-## **instaprofilereplica**
+## **Instaprofile**
 
 ![instagramweb](./IMG/insta-1.png)
 
