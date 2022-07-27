@@ -24,4 +24,4 @@ when you see it on your desktop you will have the images popped on **onclick** w
 > It is also enabled auto dark and light theme according to your devices
 
 *__you can see the demo here__*
-https://dineshmister.github.io/instaprofilereplica/
+https://dineshmister.github.io/Instaprofile/
